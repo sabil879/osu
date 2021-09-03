@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500px" src="assets/lazer.png">
+  <img width="500px" src="assets/d3cb48e227931f329e451bd838daa50f5bf79814_full.jpg">
 </p>
 
 # HOW
@@ -9,7 +9,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu/badge)](https://www.codefactor.io/repository/github/ppy/osu)
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-A free-to-win rhythm game. Rhythm is just a *click* away!
+A free-to-lose rhythm game. Rhythm is just dying inside!
 
 The future of [osu!](https://osu.ppy.sh) and the beginning of an open era! Currently known by and released under the codename "*lazer*". As in sharper than cutting-edge.
 
@@ -114,3 +114,4 @@ For those interested, we love to reward quality contributions via [bounties](htt
 Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law.
 
 Please also note that game resources are covered by a separate licence. Please see the [ppy/osu-resources](https://github.com/ppy/osu-resources) repository for clarifications.
+hi peppy
